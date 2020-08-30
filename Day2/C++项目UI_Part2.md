@@ -29,17 +29,17 @@ SlAi_Ryan_Internation::Register(LOCTEXT("Menu","Menu"));
 
 这是UE4提供的一套本地化操作，简单快捷实现多语言切换和设置
 
-![image])(https://github.com/MeleeMegaRyan/UE4C-Project_DiDi/blob/master/Day2/Image/1.jpg)
+![image](https://github.com/MeleeMegaRyan/UE4C-Project_DiDi/blob/master/Day2/Image/1.jpg)
 
-![image])(https://github.com/MeleeMegaRyan/UE4C-Project_DiDi/blob/master/Day2/Image/2.jpg)
+![image](https://github.com/MeleeMegaRyan/UE4C-Project_DiDi/blob/master/Day2/Image/2.jpg)
 
-![image])(https://github.com/MeleeMegaRyan/UE4C-Project_DiDi/blob/master/Day2/Image/3.jpg)
+![image](https://github.com/MeleeMegaRyan/UE4C-Project_DiDi/blob/master/Day2/Image/3.jpg)
 
-![image])(https://github.com/MeleeMegaRyan/UE4C-Project_DiDi/blob/master/Day2/Image/4.jpg)
+![image](https://github.com/MeleeMegaRyan/UE4C-Project_DiDi/blob/master/Day2/Image/4.jpg)
 
-![image])(https://github.com/MeleeMegaRyan/UE4C-Project_DiDi/blob/master/Day2/Image/5.jpg)
+![image](https://github.com/MeleeMegaRyan/UE4C-Project_DiDi/blob/master/Day2/Image/5.jpg)
 
-![image])(https://github.com/MeleeMegaRyan/UE4C-Project_DiDi/blob/master/Day2/Image/6.jpg)
+![image](https://github.com/MeleeMegaRyan/UE4C-Project_DiDi/blob/master/Day2/Image/6.jpg)
 
 在c++内创建修改语言的handle：
 
