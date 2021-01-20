@@ -15,7 +15,7 @@ void RecordDataJsonRead(FString& culture, float& MusicVolume, float& SoundVolume
 	LoadStringFromFile(RecordDataFileName,RelativePath,JsonValue);
 
 	TArray<TSharedPtr<FJsonValue>> JsonParsed;
-	TSharedRef<TJsonReader<TCHAR>> JsonReader = 		            TJsonReaderFactory<TCHAR>::Create(JsonValue);
+	TSharedRef<TJsonReader<TCHAR>> JsonReader = TJsonReaderFactory<TCHAR>::Create(JsonValue);
 	if (FJsonSerializer::Deserialize(JsonReader,JsonParsed))
 	{
 		//将JsonReader解析的数据获取到JsonParsed
